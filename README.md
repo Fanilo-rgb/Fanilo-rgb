@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fanilo-rgb
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning NEXT JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prxandxa@gmail.com | fb[ Faniloniaina Princy ]
 - 😄 Pronouns: he/him
